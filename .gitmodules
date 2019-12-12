@@ -1,0 +1,3 @@
+[submodule "dhl-test-package"]
+	path = dhl-test-package
+	url = https://github.com/subdev26/dhl-test-package.git
